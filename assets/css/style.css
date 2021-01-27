@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 /* apply stiles to <header> */
@@ -54,3 +55,31 @@ header h1 {
     margin: 0;
     display: inline;
 }
+
+/* adding style to the footer */
+footer {
+    background: #fce138;
+    width: 100%;
+    padding: 40px 35px;
+}
+
+/* keeping footer inline */
+footer h2 {
+    display: inline;
+    color: #024e76;
+    font-size: 30px;
+    margin: 0;
+}
+
+/* moving footer div to the right */
+footer div {
+    float: right;
+    line-height: 1.5;
+    text-align: right;
+}
+
+/* applying color the <a> element */
+footer a {
+    color: #024e76;
+}
+    
