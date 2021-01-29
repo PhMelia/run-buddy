@@ -4,16 +4,16 @@
   box-sizing: border-box;
 }
 
-body {
-  /* more on this crazy alphanumerical value in a minute! */
-  color: #39a6b2;
-  font-family: Helvetica, Arial, sans-serif;
-}
-
 /* apply styles to <header> */
 header {
   padding: 20px 35px;
   background-color: #39a6b2;
+}
+
+body {
+  /* more on this crazy alphanumerical value in a minute! */
+  color: #39a6b2;
+  font-family: Helvetica, Arial, sans-serif;
 }
 
 header h1 {
@@ -179,13 +179,15 @@ section {
   border-color: #39a6b2;
 }
 
+/* Trainers Section */
+
 .trainers {
   text-align: center;
 }
 
 .trainer {
   width: 900px;
-  margin: 0 auto 30px auto;
+  margin: 0 auto 30 px auto;
   background: #024e76;
   color: #fce138;
   overflow: auto;
@@ -225,3 +227,4 @@ section {
 .text-right {
   text-align: right;
 }
+
