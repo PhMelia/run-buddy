@@ -14,3 +14,5 @@ https://lernantingo.gihub.io/run-buddy/
 
 ## Contribution
 Mde with ❤️ by Phillip Melia
+
+### ©️2019 Run Buddy, Inc 
